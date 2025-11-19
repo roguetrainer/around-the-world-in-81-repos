@@ -4,8 +4,6 @@ I'm on an unusual research expedition: creating 8️⃣1️⃣ 👋🌍 "HELLO W
 
 🧠🤝🤖 The twist? Each one built IN PARTNERSHIP WITH AI (mostly Claude Sonnet 4.5 or Google Gemini).
 
-![81 repos](81repos.png)
-
 Why 81, not 80? Plot spoiler from Jules Verne: Phileas Fogg experienced 🌅 81 sunrises traveling eastward, though his London friends counted only 80 days. The extra day represents the perspective gained from making the complete journey. 🪂
 
 The Real Story: THE TRIFECTA 🔺
