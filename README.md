@@ -12,6 +12,8 @@
 
 \* Verne's 19th-century language aside, his vision was universal, and today includes humans of all genders collaborating with AI. 🤗
 
+![81 repos](81repos.png)
+
 
 ## The Trifecta of Modern Research
 
