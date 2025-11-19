@@ -31,7 +31,7 @@
 
 ## What Is This Project?
 
-This repository collection is an experiment in rapid numerical research acceleration using the latest LLMs (Claude Sonnet 4.5 and Google Gemini). It demonstrates how humans and AI can collaborate to explore diverse analytical domains—from quantum computing to economics, from statistical mechanics to financial modeling.
+[This repository collection](https://github.com/roguetrainer?tab=repositories) is an experiment in rapid numerical research acceleration using the latest LLMs (Claude Sonnet 4.5 and Google Gemini). It demonstrates how humans and AI can collaborate to explore diverse analytical domains—from quantum computing to economics, from statistical mechanics to financial modeling.
 
 ## The Real Skill? Human-AI Collaboration
 
