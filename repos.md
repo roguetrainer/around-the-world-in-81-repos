@@ -6,7 +6,7 @@ See [README](README.md).
 Not there yet! 
 👷🏽‍♀️ WORK IN PROGRESS
 
-| Repository Name | <div style="width: 300px;">Description</div>  | URL | Created | Hashtags | Languages | Additional Remarks |
+| Repository Name | <div style="width: 300px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Description     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>  | URL | Created | Hashtags | Languages | Additional Remarks |
 |---|---|---|---|---|---|---|
 | **lpg-credit-risk-bn** | Labeled Guide Prompting Bayesian Network for credit risk assessment | https://github.com/roguetrainer/lpg-credit-risk-bn | 2025 | #BayesianNetworks #CreditRisk #LLM #FinTech | Python | AI-assisted Bayesian network for financial risk |
 | **black-swan-bayesian-network** | Bayesian network model for financial risk & black swan (rare) events, following Rebonato & Denev | https://github.com/roguetrainer/black-swan-bayesian-network | 2025 | #BlackSwan #TailRisk #SystemicRisk #Bayesian | Python | Based on Rebonato & Denev's framework for extreme events |
