@@ -1,4 +1,4 @@
-# Around the World (of Analytical Modelling) in 81 Repos 🌍
+# Around the World (of Analytical Modelling) in [81 Repos](repos.md) 🌍
 
 *A journey through numerical research, powered by human creativity and AI collaboration*
 
@@ -32,6 +32,9 @@
 ## What Is This Project?
 
 [This repository collection](https://github.com/roguetrainer?tab=repositories) is an experiment in rapid numerical research acceleration using the latest LLMs (Claude Sonnet 4.5 and Google Gemini). It demonstrates how humans and AI can collaborate to explore diverse analytical domains—from quantum computing to economics, from statistical mechanics to financial modeling.
+
+## The Repos
+🗄️ [A table of the repos is here](./repos.md)
 
 ## The Real Skill? Human-AI Collaboration
 

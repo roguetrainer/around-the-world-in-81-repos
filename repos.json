@@ -1,0 +1,246 @@
+[
+  {
+    "description": "Labeled Guide Prompting Bayesian Network for credit risk assessment ",
+    "name": "lpg-credit-risk-bn"
+  },
+  {
+    "description": "Bayesian network model for financial risk & black swan (rare) events, following Rebonato & Denev",
+    "name": "black-swan-bayesian-network"
+  },
+  {
+    "description": "Around the world in 81 repos, inspired by Jules Verne. A journey through numerical research, powered by human creativity and AI collaboration",
+    "name": "around-the-world-in-81-repos"
+  },
+  {
+    "description": "Quantum error correction (QEC) - codes, overviews, ideas",
+    "name": "quantum-error-correction"
+  },
+  {
+    "description": "Bayesian genetics analysis - a comparison of Simulated Three-Population Triangle Model with PyMC & STRUCTURE",
+    "name": "bayesian-genetics-analysis"
+  },
+  {
+    "description": "F# is ideal for domain specific languages (DSLs) - examples",
+    "name": "fsharp-dsl"
+  },
+  {
+    "description": "Deep Learning is Not So Mysterious or Different [Wilson 2025]- code to explore the ideas from this paper.",
+    "name": "dl-not-mysterious"
+  },
+  {
+    "description": "Agentic AI with multi-agent framework comparison: CrewAI vs AutoGen for a research & writing team example",
+    "name": "multi-agent-team"
+  },
+  {
+    "description": "Agentic RAG implementations 3-way horse-race: LlamaIndex, LangChain, SmolAgents",
+    "name": "agentic-rag"
+  },
+  {
+    "description": "Toolkit / setup scripts for hosting Kimi K2 on cloud providers VastAI & RunPod",
+    "name": "kimi-k2-cloud-setup"
+  },
+  {
+    "description": "Generating time series data that shows q-variance over all time scales.",
+    "name": "q-variance"
+  },
+  {
+    "description": "The aLLcheMist - agentic LLMs for computational chemistry",
+    "name": "the-allchemist"
+  },
+  {
+    "description": "Reversed Stress Testing for Resilience - an implementation. From max acceptable loss threshold, work backward to identify the specific scenarios most likely to cause this unfavorable disruption.",
+    "name": "reverse-stress-testing"
+  },
+  {
+    "description": "Bayesian Neural Network for Quantum Error Correction Decoding",
+    "name": "bnn-for-qec-decoder"
+  },
+  {
+    "description": "Quantum extension of Conway's game of life using full quantum Hamiltonian method & Pennylane",
+    "name": "quantum-game-of-life"
+  },
+  {
+    "description": "Semi quantum extension of Conway's Game of Life in 3 languages: python, F#, Q#",
+    "name": "quantum-game-of-life-3x"
+  },
+  {
+    "description": "Turing machine emulator app",
+    "name": "turing-machine-app"
+  },
+  {
+    "description": "Markov Chain Monte Carlo for Bayesian Neural Nets - an application to network models of systemic risk",
+    "name": "mcmc-bnn"
+  },
+  {
+    "description": "Markov Chain Monte Carlo for estimating CoVaR - a measure for systemic risk",
+    "name": "mcmc-covar"
+  },
+  {
+    "description": "Demonstration that modern deep learning models with ReLU-like activation functions produce piecewise linear surfaces. This is an important geometric insights about neural networks.",
+    "name": "piecewise-linear-surfaces-in-deep-learning"
+  },
+  {
+    "description": "Differentiable programming for estimating financial derivative greek sensitivities",
+    "name": "diff-prog-for-derivative-greeks"
+  },
+  {
+    "description": "Functional approach to financial derivatives using composable contract primitives, with QuantLib integration for pricing and Greeks.",
+    "name": "financial-contract-combinators"
+  },
+  {
+    "description": "Functional programming and category theory in LLM interactions",
+    "name": "functional-programming-in-llm-interactions"
+  },
+  {
+    "description": "Chemisty calculation on a quantum computer - finding the groundstate energy for H2 using a VQE variational quantum eigensolver",
+    "name": "chemistry-on-quantum"
+  },
+  {
+    "description": "Quantum computing for banking & finance",
+    "name": "quantum-computing-for-finance"
+  },
+  {
+    "description": "A production-ready RAG pipeline combining vector search and knowledge graphs for intelligent, privacy-first document Q&A - all running locally on your machine.",
+    "name": "local-rag-pipeline"
+  },
+  {
+    "description": "Canadian housing market sentiment",
+    "name": "canadian-housing-market"
+  },
+  {
+    "description": "Visualizing Canadian national accounts data.",
+    "name": "canadian-national-accounts"
+  },
+  {
+    "description": "Network filtering methods in finance - PMFG, TMFG",
+    "name": "network-filtering-finance"
+  },
+  {
+    "description": "The INET UK housing model translated to python for Canada",
+    "name": "housing-abm"
+  },
+  {
+    "description": "Self-Organized Criticality in economics & finance. Python implementations demonstrating how economic and financial systems self-organize toward critical points where small shocks trigger large disruptions, based on Bouchaud's 2025 paper on Self-Organized Criticality.",
+    "name": "soc-economics-finance"
+  },
+  {
+    "description": "Interpretability Baby Dragon Hatchling Experiment: Tracking Concept Formation and Synaptic Strengthening on Mabinogion Welsh folk tales. ",
+    "name": "bdh-welsh-dragons"
+  },
+  {
+    "description": "COVID and Global Capital Flows - Analyzing how massive COVID-19 monetary stimulus in developed countries affected cross-border capital flow volatility, asset price inflation, and financial stability risks in small open economies like Canada using a SFC macroeconomic model.",
+    "name": "covid-sfc-model"
+  },
+  {
+    "description": "A demonstration XVA value adjustment engine based on the QuantLib pricing engine. ",
+    "name": "quantlib-xva-engine"
+  },
+  {
+    "description": "Quantum Error Correction Frameworks - exploring the open-source frameworks",
+    "name": "qec-frameworks"
+  },
+  {
+    "description": "What does it mean to be AI literate & how do we learn to better harness the human-machine symbiosis?",
+    "name": "ai-literacy"
+  },
+  {
+    "description": "Quantum extensions to the game of dominoes",
+    "name": "quantum-dominoes"
+  },
+  {
+    "description": "A quantum recommender system - how quantum mechanics mathematics can provide a theoretically interesting alternative to classical collaborative filtering",
+    "name": "quantum-recommender"
+  },
+  {
+    "description": "A Canadian Stock Flow Consistent (SFC) Macroeconomic Model based on the Italy SFC Model by Marco Veronese Passarella.",
+    "name": "Canada-SFC-Model"
+  },
+  {
+    "description": "Pseudo-spectral landscapes and their relevance to understanding Large Language Models (LLMs) through geometric approaches.",
+    "name": "pseudo-spectral-landscapes"
+  },
+  {
+    "description": "A Stock Flow Consistent (SFC) Macroeconomic Model for Canada using the bimets R package.",
+    "name": "canada-sfc"
+  },
+  {
+    "description": "Quantum Sudoko - exploring quantum variants of the rules or quantum solutions to the standard game",
+    "name": "sudoqu"
+  },
+  {
+    "description": "Quantum backgammon",
+    "name": "baqgammon"
+  },
+  {
+    "description": "A Geometric Perspective on Quantum Error Correction",
+    "name": "geometric-qec"
+  },
+  {
+    "description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit",
+    "name": "cuda-samples"
+  },
+  {
+    "description": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.",
+    "name": "d2l-en"
+  },
+  {
+    "description": "Website for the unitaryHACK hackathon series",
+    "name": "unitaryhackdev"
+  },
+  {
+    "description": "The goal of the Workflows Community Initiative (WCI) is to bring the workflows community together (users, developers, researchers, and facilities) to provide community resources and capabilities to enable scientists and workflow systems developers to discover software products, related efforts, events, technical reports, etc. and engage in community-wide efforts to tackle workflows grand challenges.",
+    "name": "workflowscommunity.github.io"
+  },
+  {
+    "description": "An introduction to systemic risk. A guest lecture with code demos.",
+    "name": "systemic-risk-intro"
+  },
+  {
+    "description": "Miscellaneous code outside of a larger project. ",
+    "name": "sand-box"
+  },
+  {
+    "description": "GitHub Desktop tutorial repository",
+    "name": "desktop-tutorial"
+  },
+  {
+    "description": "",
+    "name": "covalent-on-codespaces"
+  },
+  {
+    "description": "Materials on how to create a stock-flow consistent (SFC) (accounting) model for macroeconomic modelling using data from the system of national accounts (SNA). ",
+    "name": "stock-flow-consistent-models"
+  },
+  {
+    "description": "Book reviews",
+    "name": "book-reviews"
+  },
+  {
+    "description": "Testing github codespaces using 2percentsilk/haikus-for-codespaces as a template",
+    "name": "haikus-for-codespaces"
+  },
+  {
+    "description": "",
+    "name": "sample-notebooks"
+  },
+  {
+    "description": "My first Visual Studio Codespace repository!",
+    "name": "vscodespace-test"
+  },
+  {
+    "description": "",
+    "name": "miscellaneous"
+  },
+  {
+    "description": "Some Jupyter notebooks demonstrating various types of models for systemic financial risk, including indicator back-testing, network construction, network analytics, statistical stress-testing & economic models. Many of these can be run on Azure, when the required R & python packages are supported. ",
+    "name": "systemic-risk"
+  },
+  {
+    "description": "Repository to store the file Infer.FSharp.dll, which is missing from the Nuget repository.",
+    "name": "Infer.NET-2.6"
+  },
+  {
+    "description": "",
+    "name": "roguetrainer.github.io"
+  }
+]
