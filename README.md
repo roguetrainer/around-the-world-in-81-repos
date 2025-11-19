@@ -10,6 +10,8 @@
 > 💭 *"Anything one man\* can imagine, other men\* can make real."*  
 — Jules Verne, **Around the World in Eighty Days** 
 
+> 🐈‍⬛ *"Be curious, not judgmental"* — Walt Whitman
+
 \* Verne's 19th-century language aside, his vision was universal, and today includes humans of all genders collaborating with AI. 🤗
 
 ![81 repos](81repos.png)
@@ -232,7 +234,7 @@ Fred Brooks famously argued that adding people to a late software project makes 
 - **Polyglot fluency**: Write Python, then R, then F# without cognitive overhead
 - **No ego or politics**: Just focus on the problem
 
-This doesn't make human expertise less valuable—it makes it *more* valuable by freeing us to focus on what we do best: asking good questions, providing domain knowledge, making creative connections, and choosing the right tools for the job.
+This doesn't make human expertise less valuable—it makes it *more* valuable by freeing us to focus on what we do best: asking good questions, providing domain knowledge, making creative connections, and choosing the right tools for the job. AI is brilliant in many ways. But _we_ are _curious_ (addressing my human readers).
 
 ## Contributing
 
@@ -287,5 +289,7 @@ Individual repositories may have different licenses. Check each repo for details
 
 *"The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value."*  
 — Ada Lovelace
+
+*"I am neither especially clever nor especially gifted. I am only very, very curious"* —  Albert Einstein. 
 
 ---
